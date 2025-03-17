@@ -1,16 +1,18 @@
-## Hi there 👋
+## Olá! Eu sou Guilherme Terra 👋
+- 📍 Estou em busca de atuar como Desenvolvedor Web <br>
+- 📚 Estou me especializando em Análise e Desenvolvimento de Sistemas <br>
+- ⚡ Adoro tanto o Frontend, quanto o Backend <br>
+- 🎮 Meu hobby é jogar videogame <br>
 
-<!--
-**guifterra/guifterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Linguagens e Ferramentas Usadas
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vite,bootstrap,git,java,nodejs,mysql,vscode)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+<!-- Modelo de tabela de dados do Git -->
+<div>
+  <a href="https://github.com/guifterra">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifterra&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guifterra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meu Linkedin
+<a href="https://www.linkedin.com/in/guilherme-fabiano-terra-2ba51a1b1/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
